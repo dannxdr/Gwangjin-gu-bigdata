@@ -28,14 +28,24 @@
 결과 및 시상 : 23.06.23<br>
 
 # 연구 과정
-
-### 데이터 수집 및 전처리
-
-### 연구 과정
-
-### 연구 결과
-
-# 시상 내역
-
+![스마트쉼터-입지선정 (1)1](https://github.com/dannxdr/Gwangjin-gu-bigdata/assets/80569773/3321d84c-8245-4748-9e8a-5f9348b0134f)
+![스마트쉼터-입지선정 (1)2](https://github.com/dannxdr/Gwangjin-gu-bigdata/assets/80569773/db8ae87f-dbd3-4d6c-9c8d-d2e31c368009)
+![스마트쉼터-입지선정 (1)3](https://github.com/dannxdr/Gwangjin-gu-bigdata/assets/80569773/e9d86d0c-0980-42fc-a8cd-68e0fb1406ad)
+![스마트쉼터-입지선정 (1)4](https://github.com/dannxdr/Gwangjin-gu-bigdata/assets/80569773/8b3010fa-b0ad-4e3e-a350-6931380051c0)
+![스마트쉼터-입지선정 (1)5](https://github.com/dannxdr/Gwangjin-gu-bigdata/assets/80569773/739a09bc-8052-46ee-a854-88497ef90568)
+![스마트쉼터-입지선정 (1)6](https://github.com/dannxdr/Gwangjin-gu-bigdata/assets/80569773/662df26b-7be4-4147-9170-bd35fda7ff41)
+![스마트쉼터-입지선정 (1)7](https://github.com/dannxdr/Gwangjin-gu-bigdata/assets/80569773/78b42346-f7b4-44d7-bcc8-a0efb0b6fed2)
+![스마트쉼터-입지선정 (1)8](https://github.com/dannxdr/Gwangjin-gu-bigdata/assets/80569773/86ec1f61-4102-4d57-bc13-d1c68ef5bec6)
+![스마트쉼터-입지선정 (1)9](https://github.com/dannxdr/Gwangjin-gu-bigdata/assets/80569773/fe1dab13-48d5-475f-af51-3e243d45d1b9)
+![스마트쉼터-입지선정 (1)10](https://github.com/dannxdr/Gwangjin-gu-bigdata/assets/80569773/91a7f200-cc69-4067-80df-09cc3aa472d1)
+![스마트쉼터-입지선정 (1)11](https://github.com/dannxdr/Gwangjin-gu-bigdata/assets/80569773/f127f7a0-4dbd-492c-ac1e-763691925c75)
+![스마트쉼터-입지선정 (1)12](https://github.com/dannxdr/Gwangjin-gu-bigdata/assets/80569773/2b4436c9-e47f-4838-a543-ab685dc01bed)
+![스마트쉼터-입지선정 (1)13](https://github.com/dannxdr/Gwangjin-gu-bigdata/assets/80569773/37db6376-489e-44fd-9a04-06b10c0707da)
+![스마트쉼터-입지선정 (1)14](https://github.com/dannxdr/Gwangjin-gu-bigdata/assets/80569773/aa3b4205-5f2e-4b7d-b984-0e6068239746)
+![스마트쉼터-입지선정 (1)15](https://github.com/dannxdr/Gwangjin-gu-bigdata/assets/80569773/a506a96b-8821-47ca-98d3-affeed431586)
+![스마트쉼터-입지선정 (1)16](https://github.com/dannxdr/Gwangjin-gu-bigdata/assets/80569773/a3c497d9-a69c-456d-a250-e42fe018597e)
+![스마트쉼터-입지선정 (1)17](https://github.com/dannxdr/Gwangjin-gu-bigdata/assets/80569773/fd367ef8-5a05-4343-900e-77bbe45ef413)
+![스마트쉼터-입지선정 (1)18](https://github.com/dannxdr/Gwangjin-gu-bigdata/assets/80569773/01d849a1-6d8b-473a-ab34-f2d08b0c4ff4)
+![스마트쉼터-입지선정 (1)19](https://github.com/dannxdr/Gwangjin-gu-bigdata/assets/80569773/879c5850-a565-45ba-a157-02529c78f155)
 # skills
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
